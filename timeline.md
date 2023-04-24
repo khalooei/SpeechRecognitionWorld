@@ -6,7 +6,7 @@ A revised version of ARPABET is used in the [TIMIT](#TIMIT) corpus.
 
 
 # Datasets
-* [TIMIT] (TIMIT Acoustic-Phonetic Continuous Speech Corpus)
+* [TIMIT]:TIMIT (TIMIT Acoustic-Phonetic Continuous Speech Corpus)
 TIMIT is a corpus of phonemically and lexically transcribed speech of American English speakers of different sexes and dialects.
 The TIMIT Acoustic-Phonetic Continuous Speech Corpus is a standard dataset used for evaluation of automatic speech recognition systems. 
 The TIMIT telephone corpus was an early attempt to create a database with speech samples.
